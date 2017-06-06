@@ -3,6 +3,8 @@ import sys
 from PyQt5.QtWidgets import QApplication
 
 from lib.ProjectsWidget import * 
+from lib.Database import * 
+
 from mako.lib import * 
 from mako.desktop import * 
 import os
